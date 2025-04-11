@@ -2,7 +2,7 @@
   "name": "nebula-night",
   "displayName": "Nebula Night",
   "description": "A sleek, high-contrast dark theme designed for developers who love rich blues and a futuristic aesthetic",
-  "publisher": "Marvellinus Vincent",
+  "publisher": "marvellinusvincent",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.99.0"
