@@ -1,0 +1,33 @@
+{
+  "name": "nebula-night",
+  "displayName": "Nebula Night",
+  "description": "A sleek, high-contrast dark theme designed for developers who love rich blues and a futuristic aesthetic",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "Blue",
+    "color-theme",
+    "Nebula Night"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebula Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nebula-night-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarvellinusVincent/Nebula-Night"
+  },
+  "icon": "images/logo.png"
+}
