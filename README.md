@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="images/logo.png" width="100" />
+  <img alt="Logo" src="images/logo_white.png" width="100" />
 </p>
 <h1 align="center">
   ❄️ Arctic Depth Theme for VS Code
@@ -98,16 +98,6 @@ If you enjoy using **Arctic Depth**, consider supporting the project:
 - Go  
 - Rust  
 - And more...
-
----
-
-### Manual Installation (.vsix)
-
-1. Download the `.vsix` file from the [GitHub Releases](https://github.com/yourusername/arctic-depth-theme/releases)  
-2. Open VS Code  
-3. Go to **Extensions** → Click `...` (More Actions)  
-4. Select **Install from VSIX...**  
-5. Choose the downloaded `.vsix` file  
 
 ---
 
