@@ -3,7 +3,7 @@
   "displayName": "Arctic Depth",
   "description": "A sleek, high-contrast dark theme designed for developers who love rich blues and a futuristic aesthetic",
   "publisher": "marvellinusvincent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -22,7 +22,7 @@
       {
         "label": "Arctic Depth",
         "uiTheme": "vs-dark",
-        "path": "./themes/nebula-arctic-depth-theme.json"
+        "path": "./themes/arctic-depth-color-theme.json"
       }
     ]
   },
