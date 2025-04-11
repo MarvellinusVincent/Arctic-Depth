@@ -1,6 +1,6 @@
 {
-  "name": "nebula-night",
-  "displayName": "Nebula Night",
+  "name": "arctic-depth",
+  "displayName": "Arctic Depth",
   "description": "A sleek, high-contrast dark theme designed for developers who love rich blues and a futuristic aesthetic",
   "publisher": "marvellinusvincent",
   "version": "1.0.0",
@@ -15,12 +15,12 @@
     "Dark Theme",
     "Blue",
     "color-theme",
-    "Nebula Night"
+    "Arctic Depth"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Nebula Night",
+        "label": "Arctic Depth",
         "uiTheme": "vs-dark",
         "path": "./themes/nebula-night-color-theme.json"
       }
