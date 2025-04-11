@@ -22,13 +22,13 @@
       {
         "label": "Arctic Depth",
         "uiTheme": "vs-dark",
-        "path": "./themes/nebula-night-color-theme.json"
+        "path": "./themes/nebula-arctic-depth-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MarvellinusVincent/Nebula-Night"
+    "url": "https://github.com/MarvellinusVincent/Arctic Depth"
   },
   "icon": "images/logo.png"
 }
