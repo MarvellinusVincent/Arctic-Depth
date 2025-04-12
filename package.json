@@ -3,9 +3,9 @@
   "displayName": "Arctic Depth",
   "description": "A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic",
   "publisher": "marvellinusvincent",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "*"
   },
   "categories": [
     "Themes"
@@ -30,5 +30,5 @@
     "type": "git",
     "url": "https://github.com/MarvellinusVincent/Arctic-Depth"
   },
-  "icon": "images/logo_black.png"
+  "icon": "images/logo_white.png"
 }
