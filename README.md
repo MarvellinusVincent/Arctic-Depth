@@ -2,10 +2,10 @@
   <img alt="Logo" src="images/logo_white.png" width="100" />
 </p>
 <h1 align="center">
-  ❄️ Arctic Depth Theme for VS Code
+  ❄️ Arctic Depth Theme
 </h1>
 <p align="center">
-  A sleek, high-contrast dark blue theme designed for developers using <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">VS Code</a> who love rich blues and a futuristic aesthetic. It combines deep oceanic tones with crisp Arctic highlights to create a visually striking yet comfortable coding environment.
+  A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic. It combines deep oceanic tones with crisp Arctic highlights to create a visually striking yet comfortable coding environment.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">
@@ -43,6 +43,16 @@
 4. Open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P`)  
 5. Choose **Preferences: Color Theme**  
 6. Select **Arctic Depth**  
+
+## Zed Editor Installation
+
+1. Clone this repository or download the theme files
+2. Copy these files to your Zed themes directory:
+   ```bash
+   cp themes/arctic-depth-color-theme-zed.json ~/.zed/themes/arctic-depth.json
+   cp zed-package.json ~/.zed/themes/arctic-depth-package.json
+3. Restart Zed
+4. Select "Arctic Depth" from the theme picker (Settings > Themes)
 
 ---
 
