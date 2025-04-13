@@ -3,7 +3,7 @@
   "displayName": "Arctic Depth",
   "description": "A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic",
   "publisher": "marvellinusvincent",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "engines": {
     "vscode": "^1.60.0"
   },
