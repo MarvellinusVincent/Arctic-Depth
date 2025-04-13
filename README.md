@@ -5,7 +5,9 @@
   ❄️ Arctic Depth Theme
 </h1>
 <p align="center">
-  A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic. It combines deep oceanic tones with crisp Arctic highlights to create a visually striking yet comfortable coding environment.
+  A sleek, high-contrast dark blue theme designed for developers who love rich blues and a futuristic aesthetic. It combines deep oceanic tones with crisp Arctic highlights to create a visually striking yet comfortable coding environment.<br />
+  Now available on <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">VS Code</a>, <a href="https://www.npmjs.com/package/arctic-depth">npm</a>, and <a href="https://www.npmjs.com/package/arctic-depth-zed">Zed</a>.
+
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">
