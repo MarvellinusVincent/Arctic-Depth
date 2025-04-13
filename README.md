@@ -10,16 +10,31 @@
 
 </p>
 <p align="center">
+  <strong>📦 VS Code Marketplace</strong><br />
   <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">
-    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/MarvellinusVincent.arctic-depth?color=brightgreen" />
+    <img alt="VS Code Version" src="https://img.shields.io/visual-studio-marketplace/v/MarvellinusVincent.arctic-depth?color=brightgreen" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/MarvellinusVincent.arctic-depth" />
+    <img alt="VS Code Downloads" src="https://img.shields.io/visual-studio-marketplace/d/MarvellinusVincent.arctic-depth" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=MarvellinusVincent.arctic-depth">
-    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/MarvellinusVincent.arctic-depth" />
+    <img alt="VS Code Installs" src="https://img.shields.io/visual-studio-marketplace/i/MarvellinusVincent.arctic-depth" />
   </a>
 </p>
+
+<p align="center">
+  <strong>📦 npm (for themes or integrations)</strong><br />
+  <a href="https://www.npmjs.com/package/arctic-depth">
+    <img alt="npm version" src="https://img.shields.io/npm/v/arctic-depth?color=crimson" />
+  </a>
+  <a href="https://www.npmjs.com/package/arctic-depth">
+    <img alt="npm downloads/month" src="https://img.shields.io/npm/dm/arctic-depth" />
+  </a>
+  <a href="https://www.npmjs.com/package/arctic-depth">
+    <img alt="npm total downloads" src="https://img.shields.io/npm/dt/arctic-depth?color=blueviolet" />
+  </a>
+</p>
+
 
 ![screenshot](images/screenshot.png)
 
