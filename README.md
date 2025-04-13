@@ -44,28 +44,6 @@
 5. Choose **Preferences: Color Theme**  
 6. Select **Arctic Depth**  
 
-## Zed Editor Installation
-
-### **Method 1: Manual Install**
-1. Download these files from the [latest release](https://github.com/MarvellinusVincent/Arctic-Depth/releases):
-   - `arctic-depth-color-theme-zed.json` (rename to `arctic-depth.json`)
-   - `zed-package.json`
-2. Copy them to Zed's themes folder:
-   ```bash
-   mkdir -p ~/.zed/themes
-   cp arctic-depth.json ~/.zed/themes/
-   cp zed-package.json ~/.zed/themes/arctic-depth-package.json
-   ```
-3. Restart Zed and select the theme.
-
-### **Method 2: Clone Repository**
-```bash
-git clone https://github.com/MarvellinusVincent/Arctic-Depth.git
-cd Arctic-Depth
-cp themes/arctic-depth-color-theme-zed.json ~/.zed/themes/arctic-depth.json
-cp zed-package.json ~/.zed/themes/arctic-depth-package.json
-```
-
 ---
 
 ## 🖌️ Color Palette
