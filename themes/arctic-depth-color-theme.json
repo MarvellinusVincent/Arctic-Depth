@@ -4,7 +4,7 @@
 	"colors": {
 
 	  // ===== Editor =====
-	  "editor.background": "#171A22",
+	  "editor.background": "#171a22",
 	  "editorLineNumber.foreground": "#5e81ac80",
 	  "editorLineNumber.activeForeground": "#5E81AC",
 	  "editorCursor.foreground": "#5E81AC",
@@ -255,11 +255,11 @@
 	  "terminal.ansiBrightBlack": "#1E2025",
 	  "terminal.ansiBlue": "#5E81AC",
 	  "terminal.ansiBrightBlue": "#7F9BC5",
-	  "terminal.ansiCyan": "#4A6A8C",
-	  "terminal.ansiBrightCyan": "#9DB5D9",
+	  "terminal.ansiCyan": "#06B8B8",
+	  "terminal.ansiBrightCyan": "#00E5E5",
 	  "terminal.ansiRed": "#EE6C7D",
 	  "terminal.ansiBrightRed": "#FF8A9A",
-	  "terminal.ansiGreen": "#5E81AC",
+	  "terminal.ansiGreen": "#4FC414",
 	  "terminal.ansiBrightGreen": "#7F9BC5",
 	  "terminal.ansiYellow": "#F9C74F",
 	  "terminal.ansiBrightYellow": "#FFDF80",
@@ -296,7 +296,7 @@
 	  "debugToolBar.border": "#1a1c21",
 	  "debugIcon.startForeground": "#5E81AC",
 	  "debugIcon.pauseForeground": "#F9C74F",
-	  "debugIcon.stopForeground": "#EE6C7D",
+	  "debugIcon.stopForeground": "#EE6C7D",  
 	  "debugIcon.stepOverForeground": "#5E81AC",
 	  "debugIcon.stepIntoForeground": "#5E81AC",
 	  "debugIcon.stepOutForeground": "#5E81AC",
